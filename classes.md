@@ -3,7 +3,7 @@ title: Marine Muscle Classes
 theme: default
 permalink: /classes/
 ---
-## Concept Classes
+# Concept Classes
 - Mantis Shrimp Boxing
 - Hot Vent Yoga
 - Whale Weight Training
