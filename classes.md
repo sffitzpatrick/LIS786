@@ -10,4 +10,4 @@ permalink: /classes/
 - Shark Surfing
 and more!
 
-_Have a recommendation? Tell us all about [it!](https://surfgym/suggestions)_
+_Have a recommendation? [Tell us all about it!](https://surfgym/suggestions)_
