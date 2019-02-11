@@ -8,7 +8,7 @@ layout: default
 - Mantis Shrimp Boxing
 - Hot Vent Yoga
 - Whale Weight Training
-- Shark Spin Class
+- Shark Surfing
 
 ## Our amenities include:
 - Solar Endurance Tanning Beds
