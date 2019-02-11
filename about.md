@@ -14,5 +14,5 @@ Surf Gym has now expanded throughout North America, in more than 10 states and 2
 
 
 Contact us at:
-**312-333-3333***
+**312-333-3333**
 **support@surfgym.com**
