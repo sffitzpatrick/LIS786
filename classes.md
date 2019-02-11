@@ -3,10 +3,11 @@ title: Marine Muscle Classes
 theme: default
 permalink: /classes/
 ---
-Concept classes
+## Concept Classes
 - Mantis Shrimp Boxing
 - Hot Vent Yoga
 - Whale Weight Training
-- Shark Spin Class
+- Shark Surfing
+and more!
 
-Have a recommendation? Tell us all about [it!](https://surfgym/suggestions)
+_Have a recommendation? Tell us all about [it!](https://surfgym/suggestions)_
