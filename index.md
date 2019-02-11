@@ -16,4 +16,4 @@ layout: default
 - Beach Volley Ball Courts
 - State of the Art Wave Pool
 
-Check out more of our events: [Marine Muscle.](https://www.surfgym.com)
+Check out more of our events: [Marine Muscle.](https://lnguyen15.github.io/LIS786/classes/)
