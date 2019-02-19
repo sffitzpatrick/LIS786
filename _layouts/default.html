@@ -18,6 +18,7 @@
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/custom.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
 
@@ -25,10 +26,10 @@
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
     <nav id="main-navigation">
-        <a href="/LIS786/" class="btn">Home</a>
-        <a href="/LIS786/membership/" class="btn">Membership</a>
-        <a href="/LIS786/classes/" class="btn">Classes</a>
-        <a href="/LIS786/about/" class="btn">About</a>
+        <a href="{{ "/" | relative_url }}" class="btn">Home</a>
+        <a href="{{ "/membership/" | relative_url }}" class="btn">Membership</a>
+        <a href="{{ "/classes/" | relative_url }}" class="btn">Classes</a>
+        <a href="{{ "/about/" | relative_url }}" class="btn">About</a>
     </nav>
     </header>
 
