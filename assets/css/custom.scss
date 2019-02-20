@@ -1,10 +1,16 @@
 ---
 ---
 .page-header {
+  height: 150px;
   background-color: transparent;
   background-image: url({{ "/assets/images/header_ocean.jpg" | relative_url }});
   background-size: cover;
-  background-position: center;
+  background-position: center center;
+}
+
+.project-name {
+  color: black;
+  text-align: left;
 }
 
 .btn {
