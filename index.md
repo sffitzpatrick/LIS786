@@ -2,11 +2,11 @@
 Title: Home
 Layout: default
 ---
+<div class="content-left" markdown="1">
 # Surf Gym is a concept workout space that brings the maritime to your workout time.
 
 ## Join us for Marine Muscle themed classes like:
 
-<div class="content-left" markdown="1">
 ![boxing](/assets/images/boxing.jpg)
 
 Mantis Shrimp Boxing
