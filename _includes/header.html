@@ -1,0 +1,10 @@
+<header class="page-header" role="banner">
+      <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
+      <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+    <nav id="main-navigation">
+        <a href="{{ "/" | relative_url }}" class="btn">Home</a>
+        <a href="{{ "/membership/" | relative_url }}" class="btn">Membership</a>
+        <a href="{{ "/classes/" | relative_url }}" class="btn">Classes</a>
+        <a href="{{ "/about/" | relative_url }}" class="btn">About</a>
+    </nav>
+</header>
