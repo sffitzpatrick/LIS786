@@ -7,10 +7,9 @@ Layout: default
 
 ## Our amenities include:
 {% for amenity in site.amenities %}
-<h2>{{ amenity.title}}</h2>
-<p>{{ amenity.content}}</p>
+<h2>{{ amenity.title }}</h2>
+<p>{{ amenity.content }}</p>
 {% endfor %}
-
 
 </div>
 
