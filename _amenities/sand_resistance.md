@@ -1,7 +1,7 @@
 ---
-title: Solar Endurance Tanning Beds
-category: anemities
+title: Sand Resistance Training
+category: amenity
 ---
-![sunny sky](/assets/images/sunny.jpg)
+![sunny sky](/assets/images/sandy_workout.jpg)
 
-Our facilities include access to our “Solar Endurance” beds, for those who want to get a nice bronze in the off seasons. Tanning gives you a healthy glow and prevents sunburn when you’re ready to hit the beach! You can customize our beds for intensity of UV rays and timed exposure.
+Why should a sandy shore be the setting for your workout? Sand resistance helps lessen impact on your joints and muscles, builds lower body strength, and improves conditioning for your regular workout. Surf Gym offers a large sand arena where you can take classes to intensify your workout with the help of our skilled instructors or for added oomph to your personal routine. Instead of scorching your feet, our sand arena is heated to an optimal temperature for comfort.

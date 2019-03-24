@@ -1,6 +1,6 @@
 ---
 title: Mantis Shrimp Boxing
-category: cardio
+category: class
 ---
 
 ![boxing](/assets/images/boxing.jpg)

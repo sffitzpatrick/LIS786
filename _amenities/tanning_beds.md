@@ -1,6 +1,6 @@
 ---
 title: Solar Endurance Tanning Beds
-category: anemities
+category: amenity
 ---
 ![sunny sky](/assets/images/sunny.jpg)
 

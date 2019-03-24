@@ -1,6 +1,6 @@
 ---
 title: Hot Vent Yoga
-category: yoga
+category: class
 ---
 
 ![beach yoga](/assets/images/beach_yoga.jpg)

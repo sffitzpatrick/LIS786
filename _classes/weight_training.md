@@ -1,6 +1,6 @@
 ---
 title: Whale Weight Training
-category: weight training
+category: class
 ---
 
 ![weights](/assets/images/weights.jpg)

@@ -1,6 +1,6 @@
 ---
 title: Shark Surfing
-category: surfing
+category: class
 ---
 
 ![shark waves](/assets/images/shark_waves.jpg)

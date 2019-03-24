@@ -1,6 +1,6 @@
 ---
 title: State of the Art Wave Pool
-category: amenities
+category: amenity
 ---
 ![waves](/assets/images/wave.jpg)
 

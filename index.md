@@ -6,10 +6,11 @@ Layout: default
 # Surf Gym is a concept workout space that brings the maritime to your workout time.
 
 ## Our amenities include:
-- Solar Endurance Tanning Beds
-- Sand Resistance Training
-- Beach Volley Ball Courts
-- State of the Art Wave Pool
+{% for amenity in site.amenities %}
+<h2>{{ amenity.title}}</h2>
+<p>{{ amenity.content}}</p>
+{% endfor %}
+
 
 </div>
 
@@ -31,6 +32,6 @@ Shark Surfing
 
 </div>
 
-Want to know more about the classes we offer? Visit our [Marine Muscle.]({{ "/classes/" | relative_url }}) page.
+Want to know more about the classes we offer? Visit our [Marine Muscle]({{ "/classes/" | relative_url }}) page to register.
 
 <div class="clearfix"></div>
