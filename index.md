@@ -31,6 +31,6 @@ Shark Surfing
 
 </div>
 
-Check out more of our events: [Marine Muscle.]({{ "/classes/" | relative_url }})
+Want to know more about the classes we offer? Visit our [Marine Muscle.]({{ "/classes/" | relative_url }}) page.
 
 <div class="clearfix"></div>
