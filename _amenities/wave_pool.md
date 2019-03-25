@@ -1,5 +1,6 @@
 ---
 title: State of the Art Wave Pool
+permalink: /wave_pool/
 ---
 ![waves](/assets/images/wave.jpg)
 

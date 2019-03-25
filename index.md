@@ -5,10 +5,10 @@ Layout: default
 
 <div class="content-right" markdown="1">
 ## Our amenities include:
-- Sand Resistance Training
-- Solar Endurance Tanning Beds
-- Beach Volleyball Courts
-- State of the Art Wave Pool
+- [Sand Resistance Training]({{ "/resistance_training/" | relative_url }})
+- [Solar Endurance Tanning Beds]({{ "/tanning_beds/" | relative_url }})
+- [Beach Volleyball Courts]({{ "/volleyball_courts/" | relative_url }})
+- [State of the Art Wave Pool]({{ "/wave_pool/" | relative_url }})
 
 </div>
 

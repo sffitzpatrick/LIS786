@@ -1,6 +1,6 @@
 ---
 title: Beach Volleyball Courts
-category: amenity
+permalink: /volleyball_courts/
 ---
 ![volleyball on sand](/assets/images/beach_volleyball.jpg)
 
