@@ -2,18 +2,19 @@
 Title: Home
 Layout: default
 ---
-<div class="content-left" markdown="1">
-# Surf Gym is a concept workout space that brings the maritime to your workout time.
 
+<div class="content-right" markdown="1">
 ## Our amenities include:
-{% for amenity in site.amenities %}
-<h2>{{ amenity.title }}</h2>
-<p>{{ amenity.content }}</p>
-{% endfor %}
+- Sand Resistance Training
+- Solar Endurance Tanning Beds
+- Beach Volleyball Courts
+- State of the Art Wave Pool
 
 </div>
 
-<div class="img-right" markdown="1">
+<div class="img-left" markdown="1">
+# Surf Gym is a concept workout space that brings the maritime to your workout time.
+
 ## Join us for Marine Muscle themed classes like:
 
 Mantis Shrimp Boxing
@@ -28,9 +29,8 @@ Whale Weight Training
 Shark Surfing
 ![shark waves](/assets/images/shark_waves.jpg)
 
+Want to know more about the classes we offer? Visit our [Marine Muscle]({{ "/classes/" | relative_url }}) page to register.
 
 </div>
-
-Want to know more about the classes we offer? Visit our [Marine Muscle]({{ "/classes/" | relative_url }}) page to register.
 
 <div class="clearfix"></div>

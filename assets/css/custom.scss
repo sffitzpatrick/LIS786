@@ -19,18 +19,18 @@
   text-align: center;
 }
 
-.content-left{
+.img-left{
 @media all and (min-width: 960px)  {
-  width: 66%;
+  width: 60%;
   float: left;
   padding-right: 25px;
 }
 }
 
-.img-right{
+.content-right{
   @media all and (min-width: 960px) {
-    text-align: center;
-    width: 33%;
+    text-align: left;
+    width: 40%;
     float: right;
   }
 }

@@ -1,6 +1,5 @@
 ---
-title: Beach Volleyball Courts
-category: amenity
+title: State of the Art Wave Pool
 ---
 ![waves](/assets/images/wave.jpg)
 
