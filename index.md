@@ -17,17 +17,10 @@ Layout: default
 
 ## Join us for Marine Muscle themed classes like:
 
-Mantis Shrimp Boxing
-![boxing](/assets/images/boxing.jpg)
-
-Hot Vent Yoga
-![beach yoga](/assets/images/beach_yoga.jpg)
-
-Whale Weight Training
-![weights](/assets/images/weights.jpg)
-
-Shark Surfing
-![shark waves](/assets/images/shark_waves.jpg)
+{% for class in site.classes %}
+<h2>{{ class.title }}</h2>
+<p>{{ class.content }}</p>
+{% endfor %}
 
 Want to know more about the classes we offer? Visit our [Marine Muscle]({{ "/classes/" | relative_url }}) page to register.
 
