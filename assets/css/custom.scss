@@ -2,11 +2,47 @@
 ---
 .page-header {
   background-color: transparent;
-  background-image: url(/assets/images/header_ocean.jpg);
+  background-image: url({{ "/assets/images/header_ocean.jpg" | relative_url }});
   background-size: cover;
-  background-position: center;
+  background-position: center center;
+}
+
+.project-name {
+  color: rgba(28, 66, 78, 1);
+  text-shadow: 2px 2px 4px #000000;
+  padding-left: 130px;
+  text-align: left;
 }
 
 .btn {
   background-color: rgba(28, 66, 78, 0.9);
+  text-align: center;
+}
+
+.img-left{
+@media all and (min-width: 960px)  {
+  width: 60%;
+  float: left;
+  padding-right: 25px;
+}
+}
+
+.content-right{
+  @media all and (min-width: 960px) {
+    text-align: left;
+    width: 40%;
+    float: right;
+  }
+}
+
+img {
+  max-width: 50%;
+  height: auto;
+
+}
+
+.clearfix::after {
+  content:"";
+  clear: both;
+  display: table;
 }
